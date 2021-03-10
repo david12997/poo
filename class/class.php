@@ -7,7 +7,7 @@
 class Car{
 
 
-    public $speed=5;
+    public $speed = 5;
     public $color='red';
 
 
@@ -39,7 +39,7 @@ class Person{
 
     public function Run()
     {
-        
+
     }
 
 }
